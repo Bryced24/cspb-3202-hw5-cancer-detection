@@ -1,0 +1,12 @@
+data/
+__pycache__/
+*.tif
+*.keras
+submission.csv
+.DS_Store
+report/build/
+report/rendered/
+report/*.R
+report/*.tex
+figures/kaggle_score_full.png
+figures/kaggle_score_crop.jpg
